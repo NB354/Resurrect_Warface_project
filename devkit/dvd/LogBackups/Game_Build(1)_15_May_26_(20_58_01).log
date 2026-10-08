@@ -1,0 +1,175 @@
+[2026-05-15T20:58:02:832+00] [0.0 MB] BackupNameAttachment=" Build(1) 15 May 26 (20 58 01)"  -- used by backup system
+[2026-05-15T20:58:02:885+00] [0.0 MB] Log Started at 05/15/26 20:58:01
+[2026-05-15T20:58:02:921+00] [0.0 MB] Running 32 bit X360 version
+[2026-05-15T20:58:03:000+00] [0.0 MB] FileVersion: 1.0.0.1
+[2026-05-15T20:58:03:033+00] [0.0 MB] ProductVersion: 1.0.0.1
+[2026-05-15T20:58:03:095+00] [0.0 MB] Using STLport C++ Standard Library implementation
+[2026-05-15T20:58:03:149+00] [0.0 MB] Added MOD directory <engine> to CryPak
+[2026-05-15T20:58:03:183+00] [0.0 MB] Executable Command Line: "Warface.xex" -noxlive
+[2026-05-15T20:58:03:216+00] [0.0 MB] Number of system processors: 3
+[2026-05-15T20:58:03:250+00] [0.0 MB] Number of available processors: 3
+[2026-05-15T20:58:03:286+00] [0.0 MB] 
+[2026-05-15T20:58:03:320+00] [0.0 MB] Processor 0:
+[2026-05-15T20:58:03:353+00] [0.0 MB]   CPU:  
+[2026-05-15T20:58:03:385+00] [0.0 MB]   Family: 0, Model: 0, Stepping: 0
+[2026-05-15T20:58:03:421+00] [0.0 MB]   FPU: 
+[2026-05-15T20:58:03:457+00] [0.0 MB]   CPU Speed (estimated): 3200.0 MHz
+[2026-05-15T20:58:03:501+00] [0.0 MB]   MMX: not present
+[2026-05-15T20:58:03:538+00] [0.0 MB]   SSE: not present
+[2026-05-15T20:58:03:575+00] [0.0 MB]   3DNow!: not present
+[2026-05-15T20:58:03:609+00] [0.0 MB]   Serial number not present or disabled
+[2026-05-15T20:58:03:641+00] [0.0 MB] 
+[2026-05-15T20:58:03:678+00] [0.0 MB] Processor 1:
+[2026-05-15T20:58:03:717+00] [0.0 MB]   CPU:  
+[2026-05-15T20:58:03:749+00] [0.0 MB]   Family: 0, Model: 0, Stepping: 0
+[2026-05-15T20:58:11:386+00] [0.0 MB]   FPU: 
+[2026-05-15T20:58:11:428+00] [0.0 MB]   CPU Speed (estimated): 3200.0 MHz
+[2026-05-15T20:58:11:455+00] [0.0 MB]   MMX: not present
+[2026-05-15T20:58:11:493+00] [0.0 MB]   SSE: not present
+[2026-05-15T20:58:11:527+00] [0.0 MB]   3DNow!: not present
+[2026-05-15T20:58:11:553+00] [0.0 MB]   Serial number not present or disabled
+[2026-05-15T20:58:11:594+00] [0.0 MB] 
+[2026-05-15T20:58:11:625+00] [0.0 MB] Processor 2:
+[2026-05-15T20:58:11:671+00] [0.0 MB]   CPU:  
+[2026-05-15T20:58:11:704+00] [0.0 MB]   Family: 0, Model: 0, Stepping: 0
+[2026-05-15T20:58:11:737+00] [0.0 MB]   FPU: 
+[2026-05-15T20:58:11:770+00] [0.0 MB]   CPU Speed (estimated): 3200.0 MHz
+[2026-05-15T20:58:11:799+00] [0.0 MB]   MMX: not present
+[2026-05-15T20:58:11:833+00] [0.0 MB]   SSE: not present
+[2026-05-15T20:58:11:862+00] [0.0 MB]   3DNow!: not present
+[2026-05-15T20:58:11:904+00] [0.0 MB]   Serial number not present or disabled
+[2026-05-15T20:58:11:944+00] [0.0 MB] 
+[2026-05-15T20:58:11:971+00] [0.0 MB] CNotificationNetwork::Create: Failed to create socket.
+[2026-05-15T20:58:12:004+00] [0.0 MB] Stream Engine Initialization
+[2026-05-15T20:58:12:047+00] [0.0 MB] Loading Config file system.cfg (d:\system.cfg)
+[2026-05-15T20:58:12:081+00] [0.0 MB] Loading Config file config/system.cfg (d:\game\config\system.cfg)
+[2026-05-15T20:58:12:121+00] [0.0 MB] Config file %USER%/game.cfg not found!
+[2026-05-15T20:58:12:160+00] [0.0 MB] Config file console.cfg not found!
+[2026-05-15T20:58:12:194+00] [0.0 MB] Loading Config file x360.cfg (d:\game\config\x360.cfg)
+[2026-05-15T20:58:12:247+00] [0.0 MB] Loading Config file system.cfg (d:\system.cfg)
+[2026-05-15T20:58:12:277+00] [0.0 MB] Config file user.cfg not found!
+[2026-05-15T20:58:12:305+00] [0.0 MB] Config file online.cfg not found!
+[2026-05-15T20:58:12:342+00] [0.0 MB] GameName: Warface
+[2026-05-15T20:58:12:377+00] [0.0 MB] BuildTime: Jul 14 2014 13:05:49
+[2026-05-15T20:58:12:429+00] [0.0 MB] Font initialization
+[2026-05-15T20:58:12:461+00] [0.0 MB] Initializing CryFont ...
+[2026-05-15T20:58:12:617+00] [0.0 MB] Initializing CryFont done, MemUsage=0Kb
+[2026-05-15T20:58:12:778+00] [0.0 MB] Physics initialization
+[2026-05-15T20:58:12:815+00] [0.0 MB] Initializing CryPhysics ...
+[2026-05-15T20:58:13:035+00] [0.0 MB] Initializing CryPhysics done, MemUsage=0Kb
+[2026-05-15T20:58:13:067+00] [0.0 MB] Sound initialization
+[2026-05-15T20:58:13:101+00]     [0.0 MB] Initializing CrySoundSystem ...
+[2026-05-15T20:58:13:426+00]     [0.0 MB] [SOUND] 4021C820->Blocking/CEngineModule_CrySoundSystem ::I_Init()
+[2026-05-15T20:58:13:896+00]     [0.0 MB] Initializing CrySoundSystem done, MemUsage=0Kb
+[2026-05-15T20:58:13:930+00]     [0.0 MB] [SOUND] 401F8880->Blocking/CSoundSystem::CreateMusicSystem()
+[2026-05-15T20:58:13:974+00] [0.0 MB] Renderer initialization
+[2026-05-15T20:58:14:016+00] [0.0 MB] Initializing CryRenderD3D9 ...
+[2026-05-15T20:58:14:599+00] [0.0 MB] [Warning] Try to set cheat cvar (r_DeferredShadingSortLights) from config
+[2026-05-15T20:58:14:646+00] [0.0 MB] [Warning] Try to set cheat cvar (r_CustomVisions) from config
+[2026-05-15T20:58:14:681+00] [0.0 MB] [Warning] Try to set cheat cvar (r_DepthOfField) from config
+[2026-05-15T20:58:14:715+00] [0.0 MB] [Warning] Try to set cheat cvar (r_SSAODownscale) from config
+[2026-05-15T20:58:14:754+00] [0.0 MB] [Warning] Try to set cheat cvar (r_SSAOQuality) from config
+[2026-05-15T20:58:14:821+00] [0.0 MB] CRenderer sizeof(Vec2f16)=4 sizeof(Vec3f16)=8
+[2026-05-15T20:58:53:186+00] [0.0 MB] [Error] ERROR: CShaderSrv::Compile: could not connect to 10.16.0.21 (error -1, sys_net_errno=10060, retrying 0)
+[2026-05-15T20:59:14:294+00] [0.0 MB] [Error] ERROR: CShaderSrv::Compile: could not connect to 10.16.0.21 (error -1, sys_net_errno=10060, retrying 1)
+[2026-05-15T20:59:35:386+00] [0.0 MB] [Error] ERROR: CShaderSrv::Compile: could not connect to 10.16.0.21 (error -1, sys_net_errno=10060, retrying 2)
+[2026-05-15T21:00:01:952+00] [0.0 MB] [Error] ERROR: CShaderSrv::Compile: could not connect to 10.16.0.21 (error -1, sys_net_errno=10060, retrying 3)
+[2026-05-15T21:00:23:025+00] [0.0 MB] [Error] ERROR: CShaderSrv::Compile: could not connect to 10.16.0.21 (error -1, sys_net_errno=10060, retrying 4)
+[2026-05-15T21:00:50:845+00] [0.0 MB] [Error] ERROR: CShaderSrv::Compile: could not connect to 10.16.0.21 (error -1, sys_net_errno=10060, retrying 5)
+[2026-05-15T21:01:25:258+00] [0.0 MB] [Error] ERROR: CShaderSrv::Compile: could not connect to 10.16.0.21 (error -1, sys_net_errno=10060, retrying 6)
+[2026-05-15T21:01:25:295+00] [0.0 MB] [Error] Failed to create stereo device
+[2026-05-15T21:01:25:336+00] [0.0 MB] Initializing CryRenderD3D9 done, MemUsage=0Kb
+[2026-05-15T21:01:25:369+00] [0.0 MB] Initializing Direct3D and creating game window:
+[2026-05-15T21:01:25:401+00]     [0.0 MB] D3DX_SDK_VERSION = 21
+[2026-05-15T21:01:25:432+00]     [0.0 MB] Direct3D9 driver is creating...
+[2026-05-15T21:01:25:463+00]     [0.0 MB] Crytek Direct3D9 driver version 2.00 (Jul 14 2014 <13:09:06>)
+[2026-05-15T21:01:25:493+00]     [0.0 MB] Creating window called 'Warface' (1024x768)
+[2026-05-15T21:01:25:677+00]     [0.0 MB]  Full scene AA: Disabled
+[2026-05-15T21:01:25:709+00]     [0.0 MB]  Current Resolution: 1152x720x32 [120 Hz] Full Screen
+[2026-05-15T21:01:25:741+00]     [0.0 MB]  Maximum texture size: 8192x8192 (Max Aspect: 8192)
+[2026-05-15T21:01:25:773+00]     [0.0 MB]  Default textures filtering type: TRILINEAR
+[2026-05-15T21:01:25:806+00]     [0.0 MB]  HDR Rendering: FP16
+[2026-05-15T21:01:25:844+00]     [0.0 MB]  MRT HDR Rendering: Disabled
+[2026-05-15T21:01:25:882+00]     [0.0 MB]  Occlusion queries: Supported
+[2026-05-15T21:01:25:913+00]     [0.0 MB]  Geometry instancing: Supported
+[2026-05-15T21:01:25:945+00]     [0.0 MB]  Vertex textures: Supported
+[2026-05-15T21:01:25:984+00]     [0.0 MB]  Render to vertex buffer: Supported
+[2026-05-15T21:01:26:025+00]     [0.0 MB]  R16F rendertarget: Not supported
+[2026-05-15T21:01:26:059+00]     [0.0 MB]  NormalMaps compression : Supported
+[2026-05-15T21:01:26:095+00]     [0.0 MB]  Gamma control: Hardware
+[2026-05-15T21:01:26:128+00]     [0.0 MB]  Vertex Shaders version 3.1
+[2026-05-15T21:01:26:165+00]     [0.0 MB]  Pixel Shaders version 3.1
+[2026-05-15T21:01:26:199+00]     [0.0 MB]  used GeomInstancingThreshold is 7
+[2026-05-15T21:01:26:231+00]     [0.0 MB]  Pixel shaders usage: PS.3.0, PS.2.X, PS.2.0 and PS.1.1
+[2026-05-15T21:01:26:263+00]     [0.0 MB]  Vertex shaders usage: VS.3.0, VS.2.0 and VS.1.1
+[2026-05-15T21:01:26:295+00]     [0.0 MB]  Shadow maps type: Mixed Depth/2D maps
+[2026-05-15T21:01:26:347+00]     [0.0 MB]  Stencil shadows type: Two sided
+[2026-05-15T21:01:26:383+00]     [0.0 MB]  *****************************************
+[2026-05-15T21:01:26:425+00]     [0.0 MB]  
+[2026-05-15T21:01:26:478+00]     [0.0 MB] Init Shaders
+[2026-05-15T21:01:26:564+00]     [0.0 MB]  General shader quality: Medium
+[2026-05-15T21:01:26:593+00]     [0.0 MB]  Metal shader quality: Medium
+[2026-05-15T21:01:26:633+00]     [0.0 MB]  Glass shader quality: Medium
+[2026-05-15T21:01:26:665+00]     [0.0 MB]  Vegetation shader quality: Medium
+[2026-05-15T21:01:26:697+00]     [0.0 MB]  Ice shader quality: Medium
+[2026-05-15T21:01:26:724+00]     [0.0 MB]  Terrain shader quality: Medium
+[2026-05-15T21:01:26:761+00]     [0.0 MB]  Shadow shader quality: Medium
+[2026-05-15T21:01:26:789+00]     [0.0 MB]  Water shader quality: Medium
+[2026-05-15T21:01:26:828+00]     [0.0 MB]  FX shader quality: Medium
+[2026-05-15T21:01:26:859+00]     [0.0 MB]  PostProcess shader quality: Medium
+[2026-05-15T21:01:26:901+00]     [0.0 MB]  HDR shader quality: Medium
+[2026-05-15T21:01:26:930+00]     [0.0 MB]  Sky shader quality: Medium
+[2026-05-15T21:01:26:964+00]     [0.0 MB] Render quality: Medium
+[2026-05-15T21:01:27:045+00]     [0.0 MB] Init textures management (0 Mb of video memory is available)...
+[2026-05-15T21:01:27:076+00]     [0.0 MB]   Enabling of textures streaming...
+[2026-05-15T21:01:27:104+00]     [0.0 MB]   Using 91 Mb of textures pool for streaming...
+[2026-05-15T21:01:27:141+00]     [0.0 MB]   Video textures: Atlas clouds max size: 8 Mb
+[2026-05-15T21:01:27:169+00]     [0.0 MB]   Video textures: Atlas sprites max size: 8 Mb
+[2026-05-15T21:01:27:201+00]     [0.0 MB]   Video textures: Dynamic managed max size: 20 Mb
+[2026-05-15T21:01:27:229+00]     [0.0 MB]   Reloading all textures...
+[2026-05-15T21:01:27:253+00]     [0.0 MB]   Finished reloading textures...
+[2026-05-15T21:01:27:279+00]     [0.0 MB]   Finished initializing textures streaming...
+[2026-05-15T21:01:27:314+00]     [0.0 MB] [Warning] Cannot open Pak file d:\engine\shaders.pak
+[2026-05-15T21:01:27:680+00] [0.0 MB] Using Scaleform GFx 3.3.88
+[2026-05-15T21:01:27:709+00] [0.0 MB]   Using dynamic pool
+[2026-05-15T21:01:27:844+00] [0.0 MB] [SOUND] 401F8880->Blocking/CSoundSystem::CreateVideoSoundSystem()
+[2026-05-15T21:01:28:453+00] [0.0 MB] [Error] <Flash> Error: Can't find method '_level0.vSetVolume' to invoke. [libs/ui/usm_player_intro.gfx]
+[2026-05-15T21:01:28:564+00] [0.0 MB] [CSaveWriter_Memory:0] Formatted
+[2026-05-15T21:01:28:592+00] [0.0 MB] [CSaveWriter_Memory:1] Formatted
+[2026-05-15T21:01:28:626+00] [0.0 MB] [CSaveWriter_Memory:2] Formatted
+[2026-05-15T21:01:28:663+00] [0.0 MB] [CSaveWriter_Memory:3] Formatted
+[2026-05-15T21:01:28:700+00] [0.0 MB] [Warning] Cannot open Pak file d:\game\gamestream.pak
+[2026-05-15T21:01:28:726+00] [0.0 MB] InitPlatformOS took 0.17s
+[2026-05-15T21:01:32:153+00] [0.0 MB] [Warning] Cannot open Pak file d:\game\videos.pak
+[2026-05-15T21:01:32:344+00] [0.0 MB] [Warning] Cannot open Pak file d:\game\_fastload\startup.pak
+[2026-05-15T21:01:32:633+00] [0.0 MB] [STFSTEST]	Opened all basic paks in 3.8675 seconds
+[2026-05-15T21:01:32:662+00] [0.0 MB] Config file gamestream.cfg not found!
+[2026-05-15T21:01:32:701+00] [0.0 MB] Found asset version as 1165316.
+[2026-05-15T21:01:32:733+00] [0.0 MB] Config file game/Localized/Default.lng not found!
+[2026-05-15T21:01:32:766+00] [0.0 MB] [Warning] LocalizeStringManager encountered an unsupported language in setAvailableLocalizationsCSVString: 
+[2026-05-15T21:01:32:801+00] [0.0 MB] [Warning] LocalizeStringManager encountered an unsupported language in setAvailableLocalizationsCSVString: 
+[2026-05-15T21:01:32:830+00] [0.0 MB] [Warning] LocalizeStringManager encountered an unsupported language in setAvailableLocalizationsCSVString: 
+[2026-05-15T21:01:32:858+00] [0.0 MB] [Warning] LocalizeStringManager encountered an unsupported language in setAvailableLocalizationsCSVString: 
+[2026-05-15T21:01:32:892+00] [0.0 MB] [Warning] LocalizeStringManager encountered an unsupported language in setAvailableLocalizationsCSVString: 
+[2026-05-15T21:01:32:943+00] [0.0 MB] [Warning] LocalizeStringManager encountered an unsupported language in setAvailableLocalizationsCSVString: 
+[2026-05-15T21:01:33:024+00] [0.0 MB] [Warning] LocalizeStringManager encountered an unsupported language in setAvailableLocalizationsCSVString: 
+[2026-05-15T21:01:33:063+00] [0.0 MB] [Warning] LocalizeStringManager encountered an unsupported language in setAvailableLocalizationsCSVString: 
+[2026-05-15T21:01:33:114+00] [0.0 MB] [Warning] LocalizeStringManager encountered an unsupported language in setAvailableLocalizationsCSVString: 
+[2026-05-15T21:01:33:156+00] [0.0 MB] [Warning] Cannot open Pak file d:\game\bootstrap_english.pak
+[2026-05-15T21:01:33:195+00] [0.0 MB] Localized bootstrap language content(english) not available or modified from the original installation.
+[2026-05-15T21:01:33:233+00] [0.0 MB] [Warning] Cannot open Pak file d:\game\english_xml.pak
+[2026-05-15T21:01:33:274+00] [0.0 MB] Localized language xml content(english) not available or modified from the original installation.
+[2026-05-15T21:01:33:313+00] [0.0 MB] [Warning] Cannot open Pak file d:\game\english.pak
+[2026-05-15T21:01:33:361+00] [0.0 MB] Localized language content(english) not available or modified from the original installation.
+[2026-05-15T21:01:42:450+00] [0.0 MB] [Warning] Streamed texture 'Shaders/EngineAssets/Textures/water_droplets.dds' is uncompressed, and greater than 256KB (344KB)
+[2026-05-15T21:01:42:772+00] [0.0 MB] Network initialization
+[2026-05-15T21:01:42:804+00] [0.0 MB] Initializing CryNetwork ...
+[2026-05-15T21:01:43:111+00] [0.0 MB] [net] using X360 socket io management
+[2026-05-15T21:01:43:152+00] [0.0 MB] [Network Version]: DEBUG DEVELOPMENT BUILD
+[2026-05-15T21:01:43:190+00] [0.0 MB] Initializing CryNetwork done, MemUsage=0Kb
+[2026-05-15T21:01:43:227+00] [0.0 MB] MovieSystem initialization
+[2026-05-15T21:01:43:266+00] [0.0 MB] Initializing CryMovie ...
+[2026-05-15T21:01:43:419+00] [0.0 MB] Initializing CryMovie done, MemUsage=0Kb
+[2026-05-15T21:01:43:786+00] [0.0 MB] System Shutdown
+[2026-05-15T21:01:43:823+00] [0.0 MB] [SOUND] 401CEA80->Blocking/CReverbManager::SetListenerReverb()
+Watchdog timer timeout!

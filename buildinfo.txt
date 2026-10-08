@@ -1,0 +1,13 @@
+BuildNumber=1165316
+BuildName=Warface_RTW_TU4_X360_(1165316)_07_14_all
+BuildTime=2014/07/14:12:29:34
+AssetChangelist=169214
+CodeChangelist=1165316
+CodeBranch=//depot/dev/wf_360/Milestones/RTW_TU4/Main
+AssetBranch=//assets/Games/wf_360/Milestones/RTW_TU4
+BuildPlatform=X360
+ProjectBranch=Warface_RTW_TU4
+BuildTimeUtc=2014/07/14:11:29:34
+BuildRevisionNumber=0
+BuildSuffix=all
+BuildConfiguration=all

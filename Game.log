@@ -1,0 +1,74 @@
+[2005-11-22T12:00:33:508+00] [57.0 MB] BackupNameAttachment=" Build(1) 22 Nov 05 (12 00 32)"  -- used by backup system
+[2005-11-22T12:00:33:510+00] [57.0 MB] Log Started at 11/22/05 12:00:32
+[2005-11-22T12:00:33:511+00] [57.0 MB] Running 32 bit X360 version
+[2005-11-22T12:00:33:512+00] [57.0 MB] FileVersion: 1.0.0.1
+[2005-11-22T12:00:33:514+00] [57.0 MB] ProductVersion: 1.0.0.1
+[2005-11-22T12:00:33:515+00] [57.1 MB] Using STLport C++ Standard Library implementation
+[2005-11-22T12:00:33:516+00] [57.1 MB] Added MOD directory <engine> to CryPak
+[2005-11-22T12:00:33:517+00] [57.1 MB] Executable Command Line: "Warface.xex"
+[2005-11-22T12:00:33:518+00] [57.1 MB] Number of system processors: 3
+[2005-11-22T12:00:33:519+00] [57.1 MB] Number of available processors: 3
+[2005-11-22T12:00:33:520+00] [57.1 MB] 
+[2005-11-22T12:00:33:521+00] [57.1 MB] Processor 0:
+[2005-11-22T12:00:33:522+00] [57.1 MB]   CPU:  
+[2005-11-22T12:00:33:523+00] [57.1 MB]   Family: 0, Model: 0, Stepping: 0
+[2005-11-22T12:00:33:525+00] [57.1 MB]   FPU: 
+[2005-11-22T12:00:33:526+00] [57.1 MB]   CPU Speed (estimated): 3200.0 MHz
+[2005-11-22T12:00:33:527+00] [57.1 MB]   MMX: not present
+[2005-11-22T12:00:33:528+00] [57.1 MB]   SSE: not present
+[2005-11-22T12:00:33:529+00] [57.1 MB]   3DNow!: not present
+[2005-11-22T12:00:33:530+00] [57.1 MB]   Serial number not present or disabled
+[2005-11-22T12:00:33:531+00] [57.1 MB] 
+[2005-11-22T12:00:33:532+00] [57.1 MB] Processor 1:
+[2005-11-22T12:00:33:533+00] [57.1 MB]   CPU:  
+[2005-11-22T12:00:33:534+00] [57.1 MB]   Family: 0, Model: 0, Stepping: 0
+[2005-11-22T12:00:33:535+00] [57.1 MB]   FPU: 
+[2005-11-22T12:00:33:537+00] [57.1 MB]   CPU Speed (estimated): 3200.0 MHz
+[2005-11-22T12:00:33:538+00] [57.1 MB]   MMX: not present
+[2005-11-22T12:00:33:539+00] [57.1 MB]   SSE: not present
+[2005-11-22T12:00:33:540+00] [57.1 MB]   3DNow!: not present
+[2005-11-22T12:00:33:541+00] [57.1 MB]   Serial number not present or disabled
+[2005-11-22T12:00:33:542+00] [57.1 MB] 
+[2005-11-22T12:00:33:543+00] [57.1 MB] Processor 2:
+[2005-11-22T12:00:33:545+00] [57.1 MB]   CPU:  
+[2005-11-22T12:00:33:546+00] [57.2 MB]   Family: 0, Model: 0, Stepping: 0
+[2005-11-22T12:00:33:547+00] [57.2 MB]   FPU: 
+[2005-11-22T12:00:33:548+00] [57.2 MB]   CPU Speed (estimated): 3200.0 MHz
+[2005-11-22T12:00:33:549+00] [57.2 MB]   MMX: not present
+[2005-11-22T12:00:33:550+00] [57.2 MB]   SSE: not present
+[2005-11-22T12:00:33:550+00] [57.2 MB]   3DNow!: not present
+[2005-11-22T12:00:33:551+00] [57.2 MB]   Serial number not present or disabled
+[2005-11-22T12:00:33:552+00] [57.2 MB] 
+[2005-11-22T12:00:33:555+00] [57.2 MB] CNotificationNetwork::Create: Failed to create socket.
+[2005-11-22T12:00:33:556+00] [58.9 MB] Stream Engine Initialization
+[2005-11-22T12:00:33:557+00] [59.9 MB] Loading Config file system.cfg (d:\system.cfg)
+[2005-11-22T12:00:33:559+00] [68.1 MB] Loading Config file config/system.cfg (d:\game\config\system.cfg)
+[2005-11-22T12:00:33:580+00] [68.1 MB] Config file %USER%/game.cfg not found!
+[2005-11-22T12:00:33:581+00] [68.1 MB] Config file console.cfg not found!
+[2005-11-22T12:00:33:583+00] [68.1 MB] Loading Config file x360.cfg (d:\game\config\x360.cfg)
+[2005-11-22T12:00:33:586+00] [68.1 MB] Loading Config file system.cfg (d:\system.cfg)
+[2005-11-22T12:00:33:598+00] [68.1 MB] Config file user.cfg not found!
+[2005-11-22T12:00:33:599+00] [68.1 MB] Config file online.cfg not found!
+[2005-11-22T12:00:33:601+00] [68.1 MB] GameName: Warface
+[2005-11-22T12:00:33:602+00] [68.1 MB] BuildTime: Jul 14 2014 13:05:49
+[2005-11-22T12:00:33:606+00] [68.1 MB] Font initialization
+[2005-11-22T12:00:33:607+00] [68.1 MB] Initializing CryFont ...
+[2005-11-22T12:00:33:646+00] [68.7 MB] Initializing CryFont done, MemUsage=0Kb
+[2005-11-22T12:00:33:667+00] [69.2 MB] Physics initialization
+[2005-11-22T12:00:33:668+00] [69.2 MB] Initializing CryPhysics ...
+[2005-11-22T12:00:33:829+00] [72.1 MB] Initializing CryPhysics done, MemUsage=0Kb
+[2005-11-22T12:00:33:832+00] [72.1 MB] Sound initialization
+[2005-11-22T12:00:33:833+00]     [72.1 MB] Initializing CrySoundSystem ...
+[2005-11-22T12:00:34:035+00]     [75.8 MB] [SOUND] 4041C820->Blocking/CEngineModule_CrySoundSystem ::I_Init()
+[2005-11-22T12:00:34:046+00]     [87.5 MB] Initializing CrySoundSystem done, MemUsage=0Kb
+[2005-11-22T12:00:34:049+00]     [87.5 MB] [SOUND] 402F8880->Blocking/CSoundSystem::CreateMusicSystem()
+[2005-11-22T12:00:34:051+00] [87.8 MB] Renderer initialization
+[2005-11-22T12:00:34:052+00] [87.8 MB] Initializing CryRenderD3D9 ...
+[2005-11-22T12:00:34:389+00] [93.5 MB] [Warning] Try to set cheat cvar (r_DeferredShadingSortLights) from config
+[2005-11-22T12:00:34:390+00] [93.5 MB] [Warning] Try to set cheat cvar (r_CustomVisions) from config
+[2005-11-22T12:00:34:391+00] [93.5 MB] [Warning] Try to set cheat cvar (r_DepthOfField) from config
+[2005-11-22T12:00:34:393+00] [93.5 MB] [Warning] Try to set cheat cvar (r_SSAODownscale) from config
+[2005-11-22T12:00:34:394+00] [93.5 MB] [Warning] Try to set cheat cvar (r_SSAOQuality) from config
+[2005-11-22T12:00:34:404+00] [185.8 MB] CRenderer sizeof(Vec2f16)=4 sizeof(Vec3f16)=8
+[2005-11-22T12:00:54:230+00] [185.8 MB] [Error] ERROR: CShaderSrv::Compile: could not connect to 10.16.0.21 (error -1, sys_net_errno=10060, retrying 0)
+[2005-11-22T12:01:14:232+00] [185.8 MB] [Error] ERROR: CShaderSrv::Compile: could not connect to 10.16.0.21 (error -1, sys_net_errno=10060, retrying 1)

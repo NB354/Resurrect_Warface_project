@@ -1,0 +1,118 @@
+######## changes in build 1.0.11653.16 ##########################################
+
+Change 169212 on 2014/07/14 11:16:04 by andrewb@andrewb
+
+	!I from wf_360/Main to Milestones/RTW_TU4 : CL# 169209 - !B WBOX-2943 : Fix preset on China loading screen image
+
+Change 169209 on 2014/07/14 11:00:58 by andrewb@andrewb
+
+	!B WBOX-2943 : Fix preset on China loading screen image
+
+Change 169153 on 2014/07/11 15:31:01 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!U Added Urban Assault Skin for 7d rental
+
+Change 169149 on 2014/07/11 14:44:10 by andrewb@andrewb
+
+	!I From wf_360/Main to Mielstones/RTW_TU4 : CL# 19141 - !B Add correct SR to shop for china update
+
+Change 169141 on 2014/07/11 14:14:09 by andrewb@andrewb
+
+	!B Add correct SR to chop for china update
+
+Change 169138 on 2014/07/11 14:06:01 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!B Fixed Syntax error
+
+Change 169081 on 2014/07/10 17:52:11 by onurhan@WF360UK-Main
+
+	Fixing China weapons loca & typo
+
+Change 169079 on 2014/07/10 17:46:43 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!U Added Rental Items
+	Ø  Ar16_camo06 >>> T97 China 
+	Ø  Pt23_camo06 >>> Q92 China 
+	Ø  Shg12_camo06 >>> Kite Pump China 
+	Ø  Smg30_camo06 >>> Ch 9mm China 
+	Ø  Sr30_camo06 >>> Q-88 China 
+
+Change 169076 on 2014/07/10 17:37:57 by onurhan@WF360UK-Main
+
+	!U Removing repairability from rental item
+
+Change 169074 on 2014/07/10 17:20:41 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!U
+
+Change 169073 on 2014/07/10 17:19:49 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!U added syntax
+
+Change 169072 on 2014/07/10 17:18:31 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	Merging
+	
+	//assets/Games/wf_360/Main/Game/Libs/Config/MasterServer/mission_generation_configuration.xml
+	
+	to //assets/Games/wf_360/Milestones/RTW_TU4/Game/Libs/Config/MasterServer/mission_generation_configuration.xml
+
+Change 169070 on 2014/07/10 17:11:57 by andrewb@andrewb
+
+	!T Fix Mission generation config
+
+Change 169065 on 2014/07/10 16:54:48 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!U Resubmitting changes
+
+Change 169060 on 2014/07/10 16:46:01 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!U enabled China missions and disabled Afghan missions
+
+Change 169055 on 2014/07/10 16:18:49 by andrewb@andrewb
+
+	!I from wf_360/Main to Milestones/RTW_TU4 : CL#169054 - !T Add china camo weapons to achievements
+
+Change 169054 on 2014/07/10 16:17:18 by andrewb@andrewb
+
+	!T Add china camo weapons to achievements
+
+Change 169043 on 2014/07/10 14:09:48 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!U enabled CTF_vault
+
+Change 169042 on 2014/07/10 14:08:34 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!U enabled CTF_Vault and CTF_deposit
+
+Change 168669 on 2014/07/04 16:29:37 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!U Pricing
+
+Change 168652 on 2014/07/04 15:26:52 by andrewb@andrewb
+
+	!B Missing weapons without offers when screen first opened
+
+Change 168622 on 2014/07/04 14:01:48 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	Price Change
+
+Change 168614 on 2014/07/04 13:36:15 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	Fised item pricing
+
+Change 168559 on 2014/07/03 16:26:37 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!B Fixed Issue 
+	WBOX-3014
+
+Change 168540 on 2014/07/03 14:10:59 by juliusc@juliusc_FRWP1JULIUSC2_2695
+
+	!B Fixed bug #WBOX-3013 
+	**Adjusted reference guide to reflect that AR19 is Crown CCR as well
+
+Change 168516 on 2014/07/03 11:09:40 by andrewb@andrewb
+
+	!T Remove Liberty Pack from catalog
+
+

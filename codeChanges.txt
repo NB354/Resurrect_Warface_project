@@ -1,0 +1,12 @@
+######## changes in build 1.0.0.1 ##########################################
+
+Change 1165070 on 2014/07/11 15:51:17 by miles@miles_warface_360
+
+	!I 1164849 from Main - !F Participation rewards can grant permanent/one-time consumable items
+
+Change 1163600 on 2014/07/04 17:07:56 by colin@colin_warface
+
+	!T - Extend invulnerability by 10 seconds if players are spawned via hacky spawn code
+	Review: ID 36435 by Author: Colin Gulliver, Reviewer: Miles Clapham, Observer: Pavlo Gryb
+
+

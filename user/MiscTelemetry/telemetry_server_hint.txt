@@ -1,0 +1,4 @@
+POST /fileStore/telemetry/filestore.php?filename=_telemetryserverdestfile_&session2=UKWF360REALM11_ms_main_pve_1_warface_160951&client=JuKiCry&platform=360&map=china_base%2cchina_path07%2cchina_junction04&gamemode=seizure&isserver=0&append=0&tags=ProfileBuild HTTP/1.0
+Content-Type: text/plain
+Content-Length: -666666
+
